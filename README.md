@@ -19,3 +19,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminelaakroute&show_icons=true&locale=en&layout=compact" alt="aminelaakroute" /></p>
 
+### Streak
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aminelaakroute&theme=onedark)
